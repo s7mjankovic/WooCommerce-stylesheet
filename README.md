@@ -1,0 +1,2 @@
+# WooCommerce-stylesheet
+WooCommerce stylesheet
